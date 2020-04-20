@@ -1,6 +1,6 @@
 # Employee-Turnover
 
-In this project, i build a deep learning model and machine learning model that will predict the probability of an employee leaving a company. Retaining the best employees is an important factor for most organizations.  
+In this project, i build a deep learning model and a machine learning model that will predict the probability of an employee leaving a company. Retaining the best employees is an important factor for most organizations.  
 
 This is the comparison between the 2 models: 
 
